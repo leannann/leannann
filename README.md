@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in C/C++; Python, Java, SQL.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm collaborate on with 21-School.
 - 📫 How to reach me: telegram:@leannann21; terzi_andrey_sergeevich@mail.ru
 
 <!---
